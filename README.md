@@ -15,3 +15,5 @@ This example implements [vaultwarden](https://github.com/dani-garcia/vaultwarden
 ## ⚠️ Limitations
 
 All changes made by the Admin Panel will be lost every time you re-deploy. Save critical configurations in your [Variables](https://github.com/dani-garcia/vaultwarden/blob/main/.env.template).
+
+## Trigger redeplot
